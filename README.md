@@ -1,3 +1,11 @@
+## Live Demo
+
+https://agentic-finance-ai-pavithra.streamlit.app/
+
+## GitHub Repository
+
+https://github.com/G-K-Pavithra/Agentic-AI-Financial-Assistant
+
 # Agentic AI Financial Assistant
 
 ## Project Overview
