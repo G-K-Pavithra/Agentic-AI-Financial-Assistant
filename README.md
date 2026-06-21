@@ -59,6 +59,22 @@ personal_finance_dataset_8000_extended.csv - Dataset
 - Budget Prediction
 - Personalized AI Recommendations
 
+## Screenshots
+
+## https://agentic-finance-ai-pavithra.streamlit.app/
+
+<img width="1830" height="778" alt="image" src="https://github.com/user-attachments/assets/bf51d998-1230-4d4e-b01c-18deecffa653" />
+<img width="1840" height="880" alt="image" src="https://github.com/user-attachments/assets/71000105-9a97-457a-a799-964d9331fb11" />
+<img width="1834" height="660" alt="image" src="https://github.com/user-attachments/assets/d53b9b0e-95be-45b2-9688-abd19155010c" />
+
+## PowerBI Visualisation
+
+<img width="1381" height="752" alt="image" src="https://github.com/user-attachments/assets/46694567-1a8c-4c63-bce8-62f012556a0b" />
+<img width="1348" height="746" alt="image" src="https://github.com/user-attachments/assets/945258b8-8103-4371-ae86-5433e0767759" />
+<img width="1272" height="706" alt="image" src="https://github.com/user-attachments/assets/581ce793-bf00-414d-b7a1-666fd38d96fb" />
+
+
+
 ---
 
 ## Developed By
